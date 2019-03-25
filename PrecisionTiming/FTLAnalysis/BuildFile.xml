@@ -1,0 +1,10 @@
+<use name="root"/>
+<use name="roottmva"/>
+<use name="FWCore/Framework"/>
+<use name="DataFormats/VertexReco"/>
+<use name="DataFormats/TrackReco"/>
+<use name="ExternalTools/DynamicTTree"/>
+<use name="SimGeneral/HepPDTRecord"/>
+<export>
+  <lib   name="1"/>
+</export>
